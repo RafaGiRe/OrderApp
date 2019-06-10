@@ -1,0 +1,64 @@
+<resources>
+    <string name="app_name">OrderApp</string>
+
+    <string name="first_access_key">com.rafagire.orderapp.first_access</string>
+    <string name="current_code_key">com.rafagire.orderapp.current_code</string>
+    <string name="current_type_key">com.rafagire.orderapp.current_type</string>
+    <string name="current_product_key">com.rafagire.orderapp.current_product</string>
+    <string name="order_products_key">com.rafagire.orderapp.order_products</string>
+    <string name="ordered_products_key">com.rafagire.orderapp.ordered_products</string>
+    <string name="general_number_product_key">com.rafagire.orderapp.product</string>
+
+    <string name="PriceUnit">€</string>
+
+
+    <string name="QRReader_dialog_title">Código de mesa</string>
+    <string name="QRReader_dialog_text">Introduza el código de la mesa en la que se encuentra</string>
+    <string name="QRReader_dialog_positiveButton">OK</string>
+    <string name="QRReader_dialog_negativeButton">Cancelar</string>
+    <string name="QRReader_toast_noCode">Debe introducir un código...</string>
+
+
+    <string name="Menu_buttonSeeOrder">Mi pedido</string>
+
+
+    <string name="MenuGeneral_label">Carta</string>
+    <string name="MenuGeneral_label_table">Mesa</string>
+    <string name="MenuGeneral_codeNotRecognised">Código no reconocido</string>
+    <string name="MenuGeneral_noTypesFound">Ningún producto disponible</string>
+    <string name="MenuGeneral_dialog_title">Abandonar mesa</string>
+    <string name="MenuGeneral_dialog_description">Va a abandonar la mesa en la que se encuentra. ¿Desea continuar?</string>
+    <string name="MenuGeneral_dialog_positiveButton">Abandonar</string>
+    <string name="MenuGeneral_dialog_negativeButton">Cancelar</string>
+
+    <string name="MenuProduct_buttonAdd">Añadir al pedido</string>
+    <string name="MenuProduct_buttonModify">Modificar pedido</string>
+    <string name="MenuProduct_buttonCancel">Cancelar</string>
+    <string name="MenuProduct_dialog_add_part1">¿Desea añadir</string>
+    <string name="MenuProduct_dialog_add_part2">al pedido?</string>
+    <string name="MenuProduct_dialog_positiveButton">¡Claro!</string>
+    <string name="MenuProduct_dialog_negativeButton">Cancelar</string>
+    <string name="MenuProduct_toast_noMoreProducts">No se pueden pedir más productos</string>
+    <string name="MenuProduct_toast_add0Products">No se pueden añadir 0 productos...</string>
+    <string name="MenuProduct_toast_removeProductOrded">Eliminado del pedido...</string>
+    <string name="MenuProduct_toast_productsAdded">Añadido correctamente al pedido</string>
+    <string name="MenuProduct_toast_productsModified">Modificado correctamente</string>
+
+    <string name="MyOrder_label">Mi pedido</string>
+    <string name="MyOrder_buttonOrder">Pedir</string>
+    <string name="MyOrder_buttonRemove">Eliminar pedido</string>
+    <string name="MyOrder_tView_totalCountTitle">Precio total: </string>
+    <string name="MyOrder_tView_noProductsFound">Ningún producto añadido al pedido</string>
+    <string name="MyOrder_dialogOrder">Va a pedir los siguientes productos: </string>
+    <string name="MyOrder_dialogOrder_positiveButton">¡Pedir!</string>
+    <string name="MyOrder_dialogOrder_negativeButton">Cancelar</string>
+    <string name="MyOrder_dialogRemove_text">Va a eliminar su pedido actual</string>
+    <string name="MyOrder_dialogRemove_positiveButton">Quiero hacerlo</string>
+    <string name="MyOrder_dialogRemove_negativeButton">Cancelar</string>
+    <string name="MyOrder_toast_productOrderedSelected">Este producto ya ha sido pedido y no se puede modificar...</string>
+    <string name="MyOrder_toast_orderRemoved">Pedido eliminado</string>
+    <string name="MyOrder_toast_orderNoNewProducts">Todos los productos han sido pedidos anteriormente</string>
+    <string name="MyOrder_toast_deleteNoNewProducts">No hay nuevos productos añadidos al pedido para borrar...</string>
+
+
+</resources>

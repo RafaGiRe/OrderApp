@@ -1,0 +1,32 @@
+{"price":2.0,"name":"Cocacola","id":1,"type":"Bebidas"}
+{"price":2.0,"name":"Fanta Naranja","id":2,"type":"Bebidas"}
+{"price":2.0,"name":"Fanta Limón","id":3,"type":"Bebidas"}
+{"price":2.0,"name":"Nestea","id":4,"type":"Bebidas"}
+{"price":2.0,"name":"Tinto","id":5,"type":"Bebidas"}
+{"price":2.0,"name":"Cerveza","id":6,"type":"Bebidas"}
+{"price":2.5,"name":"Cerveza 0.5L","id":7,"type":"Bebidas"}
+{"price":4.5,"name":"Ensalada Mixta","id":8,"type":"Ensaladas"}
+{"price":4.5,"name":"Ensalada César","id":9,"type":"Ensaladas"}
+{"price":4.9,"name":"Ensalada Rústica","id":10,"type":"Ensaladas"}
+{"price":6.5,"name":"Ensalada Caprese","id":11,"type":"Ensaladas"}
+{"price":5.50,"name":"Hamburguesa de ternera","id":12,"type":"Carne"}
+{"price":6.5,"name":"Hamburguesa de ternera con queso","id":13,"type":"Carne"}
+{"price":6.5,"name":"Pechuga de pollo","id":14,"type":"Carne"}
+{"price":7.0,"name":"Filete empanado","id":15,"type":"Carne"}
+{"price":9.5,"name":"Solomillo de cerdo","id":16,"type":"Carne"}
+{"price":12.5,"name":"Secreto Ibérico","id":17,"type":"Carne"}
+{"price":6.5,"name":"Calamares","id":18,"type":"Pescado"}
+{"price":6.5,"name":"Boquerones","id":19,"type":"Pescado"}
+{"price":6.5,"name":"Rosada","id":20,"type":"Pescado"}
+{"price":6.5,"name":"Cazón en adobo","id":21,"type":"Pescado"}
+{"price":6.5,"name":"Rejos","id":22,"type":"Pescado"}
+{"price":7.5,"name":"Bacalao","id":23,"type":"Pescado"}
+{"price":8.5,"name":"Gambas","id":24,"type":"Pescado"}
+{"price":10.5,"name":"Langostinos","id":25,"type":"Pescado"}
+{"price":2.5,"name":"Tortita de camarones","id":26,"type":"Pescado"}
+{"price":12.5,"name":"Fritura de pescado","id":27,"type":"Pescado"}
+{"price":2.5,"name":"Helado 3 sabores","id":28,"type":"Postres"}
+{"price":2.0,"name":"Natillas","id":29,"type":"Postres"}
+{"price":2.0,"name":"Tiramisú","id":30,"type":"Postres"}
+{"price":3.0,"name":"Tarta de queso","id":31,"type":"Postres"}
+{"price":1.9,"name":"McFlurry","id":32,"type":"Postres"}
